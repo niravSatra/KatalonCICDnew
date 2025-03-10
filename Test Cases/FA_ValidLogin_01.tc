@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>FA Valid login</description>
+   <name>FA_ValidLogin_01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bd2af4f4-a809-4ff0-9ca4-0ffe963b4ebe</testCaseGuid>
+</TestCaseEntity>

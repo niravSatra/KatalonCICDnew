@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Training Co.  demo.frontaccounting.eu  D_67e997</name>
+   <tag></tag>
+   <elementGuidId>cd99352f-59e1-48eb-9500-e16fa3e3870c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='e'])[1]/following::td[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.headingtext3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Training Co. | demo.frontaccounting.eu | Demo User&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>9abe0666-056b-44f2-8055-6c854e0be935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>headingtext3</value>
+      <webElementGuid>65f7f74a-2e27-4617-93f1-8d2182134d22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training Co. | demo.frontaccounting.eu | Demo User</value>
+      <webElementGuid>fa5d766d-15a1-47b6-9dd7-889e46dc5652</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/table[@class=&quot;callout_main&quot;]/tbody[1]/tr[1]/td[1]/table[@class=&quot;main_page&quot;]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[@class=&quot;quick_menu&quot;]/table[@class=&quot;logoutBar&quot;]/tbody[1]/tr[1]/td[@class=&quot;headingtext3&quot;]</value>
+      <webElementGuid>35c27383-2394-456b-a101-53538003c760</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='e'])[1]/following::td[1]</value>
+      <webElementGuid>35b84eef-51bd-4eab-8a12-37f65aa84b20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Training Co. | demo.frontaccounting.eu | Demo User']/parent::*</value>
+      <webElementGuid>9f79cdad-d4e2-4169-8c3c-ab03913cec3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/table/tbody/tr/td/table[2]/tbody/tr/td</value>
+      <webElementGuid>d2ba0a00-ec74-4d7b-b30c-338def4ac96c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Training Co. | demo.frontaccounting.eu | Demo User' or . = 'Training Co. | demo.frontaccounting.eu | Demo User')]</value>
+      <webElementGuid>24c7975e-66ef-4883-b20e-273a901ca232</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
