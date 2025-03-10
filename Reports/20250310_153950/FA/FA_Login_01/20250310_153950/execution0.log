@@ -581,10 +581,7 @@
   <nestedLevel>0</nestedLevel>
   <escapedJava>false</escapedJava>
 </record>
-</log>
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE log SYSTEM "logger.dtd">
-<log>
 <record>
   <date>2025-03-10T11:24:09.079116300Z</date>
   <millis>1741605849079</millis>
