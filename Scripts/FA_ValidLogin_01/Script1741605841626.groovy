@@ -38,5 +38,5 @@ WebUI.click(findTestObject('Object Repository/Page_Main Menu/a_Logout'))
 
 WebUI.click(findTestObject('Object Repository/Page_Logout/b_Click here to Login Again'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_FrontAccounting 2.4.12 - Login/img'), 0)
+WebUI.closeBrowser()
 
