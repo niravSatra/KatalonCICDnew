@@ -27,3 +27,5 @@ WebUI.click(findTestObject('Object Repository/Page_FrontAccounting 2.4.12 - Logi
 
 WebUI.click(findTestObject('Object Repository/Page_Main Menu/a_Logout'))
 
+WebUI.closeBrowser()
+
