@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login FA</description>
+   <name>FA_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>18771649-5fcf-4b58-b0fe-7b5f7ade3ca8</testCaseGuid>
+</TestCaseEntity>
