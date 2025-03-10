@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FA_Login_01,Chrome 134.0.6998.36,,,10-03-2025 15:39:59,10-03-2025 15:40:35,36.420s,PASSED
+,,,,,,,
+Test Cases/FA_Login,Chrome 134.0.6998.36,Login FA,,10-03-2025 15:39:59,10-03-2025 15:40:35,35.546s,PASSED
+"openBrowser("""")",Chrome 134.0.6998.36,,,10-03-2025 15:40:00,10-03-2025 15:40:09,9.056s,PASSED
+maximizeWindow(),Chrome 134.0.6998.36,,,10-03-2025 15:40:09,10-03-2025 15:40:09,0.393s,PASSED
+"navigateToUrl(""https://demo.frontaccounting.eu/"")",Chrome 134.0.6998.36,,,10-03-2025 15:40:09,10-03-2025 15:40:30,20.136s,PASSED
+"click(findTestObject(""Object Repository/Page_FrontAccounting 2.4.12 - Login/input_Login as user demouser and password p_42366d""))",Chrome 134.0.6998.36,,,10-03-2025 15:40:30,10-03-2025 15:40:33,3.359s,PASSED
+"click(findTestObject(""Object Repository/Page_Main Menu/a_Logout""))",Chrome 134.0.6998.36,,,10-03-2025 15:40:33,10-03-2025 15:40:35,1.674s,PASSED
+closeBrowser(),Chrome 134.0.6998.36,,,10-03-2025 15:40:35,10-03-2025 15:40:35,0.430s,PASSED
