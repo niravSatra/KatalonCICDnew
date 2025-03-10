@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FA_ValidLogin_01,Chrome 134.0.6998.36,FA valid login,,10-03-2025 21:18:47,10-03-2025 21:19:55,1m - 8.050s,FAILED
+,,,,,,,
+Test Cases/FA_ValidLogin_01,Chrome 134.0.6998.36,FA Valid login,,10-03-2025 21:19:39,10-03-2025 21:19:55,16.156s,FAILED
+"openBrowser("""")",Chrome 134.0.6998.36,,,10-03-2025 21:19:39,10-03-2025 21:19:45,5.502s,PASSED
+maximizeWindow(),Chrome 134.0.6998.36,,,10-03-2025 21:19:45,10-03-2025 21:19:45,0.098s,PASSED
+"navigateToUrl(""https://demo.frontaccounting.eu/"")",Chrome 134.0.6998.36,,,10-03-2025 21:19:45,10-03-2025 21:19:47,2.170s,PASSED
+"setText(findTestObject(""Object Repository/Page_FrontAccounting 2.4.12 - Login/input_User name_user_name_entry_field""), ""demouser"")",Chrome 134.0.6998.36,,,10-03-2025 21:19:47,10-03-2025 21:19:48,0.787s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_FrontAccounting 2.4.12 - Login/input_Password_password""), ""8SQVv/p9jVScEs4/2CZsLw=="")",Chrome 134.0.6998.36,,,10-03-2025 21:19:48,10-03-2025 21:19:48,0.378s,PASSED
+"click(findTestObject(""Object Repository/Page_FrontAccounting 2.4.12 - Login/input_Login as user demouser and password p_42366d""))",Chrome 134.0.6998.36,,,10-03-2025 21:19:48,10-03-2025 21:19:51,3.468s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Main Menu/td_Training Co.  demo.frontaccounting.eu  D_67e997""), ""Training Co. | demo.frontaccounting.eu | Demo User"")",Chrome 134.0.6998.36,,,10-03-2025 21:19:51,10-03-2025 21:19:52,0.316s,PASSED
+"click(findTestObject(""Object Repository/Page_Main Menu/a_Logout""))",Chrome 134.0.6998.36,,,10-03-2025 21:19:52,10-03-2025 21:19:53,1.067s,PASSED
+"click(findTestObject(""Object Repository/Page_Logout/b_Click here to Login Again""))",Chrome 134.0.6998.36,,,10-03-2025 21:19:53,10-03-2025 21:19:54,1.478s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_FrontAccounting 2.4.12 - Login/img""), 0)",Chrome 134.0.6998.36,,,10-03-2025 21:19:54,10-03-2025 21:19:55,0.801s,FAILED
