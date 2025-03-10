@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>40f97635-d6d5-4964-b128-9a887f7d6c6b</webElementGuid>
+      <webElementGuid>220b1638-9e03-43a7-9ce2-33fca5ff8282</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>shortcut</value>
-      <webElementGuid>b91da7bc-9e79-4c82-ac98-9835275597a0</webElementGuid>
+      <webElementGuid>11ade725-52f3-4a60-8b1b-2857603ff459</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>href</name>
       <type>Main</type>
       <value>./access/logout.php?</value>
-      <webElementGuid>5b63425f-d4f0-4729-aa6b-4fd4af322051</webElementGuid>
+      <webElementGuid>d3af955d-9f14-4977-ba93-d4ec9be80c3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>  Logout</value>
-      <webElementGuid>571a762a-7e46-4348-a32c-18b32ebefa79</webElementGuid>
+      <webElementGuid>048680e3-aeb5-4908-8561-d6af0ac4fcff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/table[@class=&quot;callout_main&quot;]/tbody[1]/tr[1]/td[1]/table[@class=&quot;main_page&quot;]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[@class=&quot;quick_menu&quot;]/table[@class=&quot;logoutBar&quot;]/tbody[1]/tr[1]/td[@class=&quot;logoutBarRight&quot;]/a[@class=&quot;shortcut&quot;]</value>
-      <webElementGuid>7e168b87-78fd-4bff-a2e5-5a7ed3201fe1</webElementGuid>
+      <webElementGuid>19a17776-dc92-4fce-ab58-365253988817</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Logout')]</value>
-      <webElementGuid>0af2026b-bb98-4f2f-88e8-f1a1e0e74d4d</webElementGuid>
+      <webElementGuid>573d25d6-f4ab-450e-a0d3-ba40f3871971</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Transactions'])[1]/preceding::a[1]</value>
-      <webElementGuid>2565aca5-8cb7-41ae-a4d1-2f6e572207b5</webElementGuid>
+      <webElementGuid>e9a15808-ad93-41a4-8987-e8ec7762c5e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, './access/logout.php?')]</value>
-      <webElementGuid>667ea032-0353-4dcb-a9c4-e998500a4ba4</webElementGuid>
+      <webElementGuid>f009907b-231f-4381-9e3c-81978bfea0cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[3]/a[5]</value>
-      <webElementGuid>bd36d52f-bc12-4f74-8bd6-95076f24b5ee</webElementGuid>
+      <webElementGuid>d1fc8add-9133-4f59-b9e4-5a30422606e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = './access/logout.php?' and (text() = '  Logout' or . = '  Logout')]</value>
-      <webElementGuid>ec14989f-8533-418f-87b4-1036990adfa5</webElementGuid>
+      <webElementGuid>996f8c1a-dcd1-4d9d-8f6b-98052c0fb5e1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

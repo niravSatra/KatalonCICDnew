@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>843b43ac-4f9f-4430-b690-fd70ce73f39f</webElementGuid>
+      <webElementGuid>f8a42579-5a7d-46ab-ab0a-93b5ce9fc858</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>2e835d0e-7bdf-49f2-a46b-a0635e7c7849</webElementGuid>
+      <webElementGuid>40ec4ca9-4a7f-464c-bfc2-2e85fd9feacb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>value</name>
       <type>Main</type>
       <value>  Login -->  </value>
-      <webElementGuid>b0839485-ea24-4d51-a5f0-d19a9e63aea7</webElementGuid>
+      <webElementGuid>3beed692-9331-4218-8b2c-62be8f6aaf00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>SubmitUser</value>
-      <webElementGuid>953857e7-3d9c-4c42-ad03-67b097d14b17</webElementGuid>
+      <webElementGuid>e2beb7de-7625-4f53-a930-ba0f66c59ccc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>set_fullmode();</value>
-      <webElementGuid>4b3ea2d8-01b3-4cde-9f36-a8e2dcce6f59</webElementGuid>
+      <webElementGuid>c11a35b2-3e2c-4222-ba7b-aba8068bcc98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;_page_body&quot;)/form[1]/center[2]/input[1]</value>
-      <webElementGuid>a4f77b4f-ccfc-4299-a3ac-902fcde84dc8</webElementGuid>
+      <webElementGuid>a3a899c6-921d-4c3a-9bdb-4c9355ef7efb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='SubmitUser']</value>
-      <webElementGuid>abd87276-fa1a-42f7-b035-4af8460d3cbd</webElementGuid>
+      <webElementGuid>fa53657a-4443-4f91-a3da-9cc7a3581f05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='_page_body']/form/center[2]/input</value>
-      <webElementGuid>df86ab1c-b227-48c7-8dc5-8089d9e415d7</webElementGuid>
+      <webElementGuid>73bddc08-fb68-4da6-9fc9-aabd3d2ef224</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//center[2]/input</value>
-      <webElementGuid>a623e928-b8ea-4751-a67c-c29f1d5f9501</webElementGuid>
+      <webElementGuid>37b4505e-6643-43a0-aa18-e899aa295579</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit' and @name = 'SubmitUser']</value>
-      <webElementGuid>a960cc9a-450f-4a25-9036-2ea167337bd4</webElementGuid>
+      <webElementGuid>b29ab3a2-691d-494a-889c-bc103f56e1ee</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
